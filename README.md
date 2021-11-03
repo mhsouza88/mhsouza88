@@ -1,22 +1,36 @@
-### Hello World! 🐷✨
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88038506/140058307-1297d63d-e599-4ce1-a444-800721ef23ce.png" alt="Header">
+  </p>
 
-My name is Helena and I'm learning how to code!
+<p align="center">
+  <b>Tecnologies:</b> </br>
+<img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=important">
+<img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow"></br>
+<img src="https://img.shields.io/badge/-React.js-informational?style=flat&logo=React&logoColor=white&color=informational">
+<img src="https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blueviolet">
+<img src="https://img.shields.io/badge/-MUI-informational?style=flat&logo=Material-UI&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=orange">  
+  </p>
+  
+ <p align="center">
+  <b>Social media:</b> </br>
+<a href="https://www.linkedin.com/in/mhsouza88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=informational"></a>
+   </p>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhsouza88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mhsouza88&theme=tokyonight&show_icons=true">
+  </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsouza88&layout=compact">
+  </p>
+  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88038506/140075269-10415727-613b-40d6-9d6b-749ba8df8634.gif">
+  </p>
 
 
-<!--
-**mhsouza88/mhsouza88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
