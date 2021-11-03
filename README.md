@@ -3,7 +3,7 @@
   </p>
 
 <p align="center">
-  <b>Tecnologies:</b> </br>
+  <b>Technologies:</b> </br>
 <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=important">
 <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue">
 <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow"></br>
