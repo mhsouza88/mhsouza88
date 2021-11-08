@@ -24,8 +24,7 @@
   </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsouza88&layout=compact">
-  </p>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsouza88&title_color=5e89d3&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />  </p>
   
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88038506/140075269-10415727-613b-40d6-9d6b-749ba8df8634.gif">
