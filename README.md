@@ -3,13 +3,13 @@
   </p>
 
 <p align="center">
-  <b>Technologies:</b> </br>
+  <b>Favorite technologies:</b> </br>
 <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=important">
 <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue">
 <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow"></br>
 <img src="https://img.shields.io/badge/-React.js-informational?style=flat&logo=React&logoColor=white&color=informational">
 <img src="https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blueviolet">
-<img src="https://img.shields.io/badge/-MUI-informational?style=flat&logo=Material-UI&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/-MUI-informational?style=flat&logo=MUI&logoColor=white&color=blue">
 <img src="https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=orange">  
   </p>
   
