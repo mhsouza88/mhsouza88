@@ -18,7 +18,6 @@
 <a href="https://www.linkedin.com/in/mhsouza88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=informational"></a>
    </p>
 
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mhsouza88&theme=tokyonight&show_icons=true">
   </p>
@@ -29,7 +28,3 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88038506/140075269-10415727-613b-40d6-9d6b-749ba8df8634.gif">
   </p>
-
-
-
-
