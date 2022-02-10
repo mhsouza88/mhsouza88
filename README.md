@@ -1,21 +1,20 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88038506/140058307-1297d63d-e599-4ce1-a444-800721ef23ce.png" alt="Header">
+<img src="https://user-images.githubusercontent.com/88038506/153414475-26a4ad18-e880-4efb-bdb4-05a39d81d1a2.png" alt="Header">
   </p>
 
 <p align="center">
   <b>Favorite technologies:</b> </br>
-<img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=important">
-<img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue">
-<img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow"></br>
 <img src="https://img.shields.io/badge/-React.js-informational?style=flat&logo=React&logoColor=white&color=informational">
-<img src="https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blueviolet">
 <img src="https://img.shields.io/badge/-MUI-informational?style=flat&logo=MUI&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blueviolet"></br>
+<img src="https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=success">
+<img src="https://img.shields.io/badge/-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue"></br>
 <img src="https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=orange">  
   </p>
   
  <p align="center">
   <b>Social media:</b> </br>
-<a href="https://www.linkedin.com/in/mhsouza88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=informational"></a>
+<a href="https://www.linkedin.com/in/mhsouza88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=informational"></a>
    </p>
 
 <p align="center">
