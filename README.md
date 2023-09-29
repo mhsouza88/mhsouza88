@@ -1,29 +1,27 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88038506/153414475-26a4ad18-e880-4efb-bdb4-05a39d81d1a2.png" alt="Header">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/88038506/271447703-414f29c9-4c32-4249-be1a-e53cbbdad846.png" alt="Header">
   </p>
 
-<p align="center">
-  <b>Favorite technologies:</b> </br>
-<img src="https://img.shields.io/badge/-React.js-informational?style=flat&logo=React&logoColor=white&color=informational">
-<img src="https://img.shields.io/badge/-MUI-informational?style=flat&logo=MUI&logoColor=white&color=blue">
-<img src="https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blueviolet"></br>
-<img src="https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=success">
-<img src="https://img.shields.io/badge/-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue"></br>
-<img src="https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=orange">  
-  </p>
-  
- <p align="center">
-  <b>Social media:</b> </br>
-<a href="https://www.linkedin.com/in/mhsouza88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=informational"></a>
-   </p>
+---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mhsouza88&theme=tokyonight&show_icons=true">
+<p align="justify">
+  Oi, eu sou a Maria Helena 🌟! Sou desenvolvedora front-end e atualmente trabalho com low code/no code (ServiceNow e Oracle Transportation Management) na <a href="https://kpmg.com/br/pt/home.html" target="_blank">KPMG Brasil</a>. Também sou Embaixadora e Representante dos Embaixadores na <a href="https://ada.tech/" target="_blank">Ada Tech</a>. Sou formada em Relações Internacionais e em 2021 eu fiz a transição de carreira para a área de tecnologia. Atualmente, faço bacharelado em Engenharia de Software e MBA em Engenharia de Software. Também estou realizando um bootcamp em desenvolvimento front-end com foco em Angular, em parceria com a Ada e o Santander.
+
+  Minhas habilidades Front-end abrangem HTML5, CSS3, JavaScript, TypeScript (com POO), React.js (incluindo React Hooks, Styled-Components, ContextAPI), Next.js, bem como conhecimentos em design com Figma, Material UI, Tailwind e Bootstrap. Além disso, estou familiarizada com ferramentas de versionamento de código, como Git. No lado Back-end, tenho conhecimento em tecnologias como Node.js, gerenciamento de dados com MySQL, desenvolvimento de APIs RESTful, entre outros.
   </p>
 
+<img align="right" src="https://user-images.githubusercontent.com/88038506/140075269-10415727-613b-40d6-9d6b-749ba8df8634.gif">
+
+- 💬ㅤI can speak <strong>English</strong>.
+- 🌱ㅤEstou aprendendo <strong>Angular</strong>.
+- 🔭ㅤGostaria de participar de <strong>projetos voluntários</strong>.
+- 📫ㅤFale comigo através do <a href="https://www.linkedin.com/in/mhsouza88" target="_blank"><strong>LinkedIn</strong></a>.
+- 🎲ㅤFato aleatório: gosto muito de animes, mangás e jogos.
+
+---
+
 <p align="center">
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsouza88&title_color=5e89d3&text_color=ffffff&icon_color=61dafb&bg_color=1a1b27&langs_count=8&layout=compact&border_color=FFFFFF&hide_border=false" />  </p>
-  
-<p align="center">
-<img src="https://user-images.githubusercontent.com/88038506/140075269-10415727-613b-40d6-9d6b-749ba8df8634.gif">
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsouza88&hide_progress=true&theme=dracula" />  
+  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=mhsouza88&show_icons=true&theme=dracula">
+</p>
