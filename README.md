@@ -16,6 +16,7 @@
 - 🌱ㅤEstou aprendendo <strong>Angular</strong>.
 - 🔭ㅤGostaria de participar de <strong>projetos voluntários</strong>.
 - 📫ㅤFale comigo através do <a href="https://www.linkedin.com/in/mhsouza88" target="_blank"><strong>LinkedIn</strong></a>.
+- 🎖ㅤCertificações: AZ-900
 - 🎲ㅤFato aleatório: gosto muito de animes, mangás e jogos.
 
 ---
